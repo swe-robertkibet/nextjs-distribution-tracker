@@ -1,0 +1,31 @@
+.resellerList {
+  margin: 2rem 0;
+}
+
+.list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.name {
+  font-weight: 500;
+}
+
+.balance {
+  color: #007bff;
+}
+
+.paymentInput {
+  width: 100px;
+  padding: 0.25rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
